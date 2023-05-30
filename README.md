@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @luizaogura</h1>
 <h3 align="center">I’m interested in technologies, programming, engineering...</h3>
-- 💞️ I'm always looking to improve my knowledge and programming skills, so that I can positively impact people's lives.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizaogura" alt="luizaogura" /></a> </p>
 
+- 💞️ I'm always looking to improve my knowledge and programming skills, so that I can positively impact people's lives**
 - 🌱 I’m currently learning **computer science using Python 3.5**
 
 <h3 align="left">Connect with me:</h3>
