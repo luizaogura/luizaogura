@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm @luizaogura</h1>
 <h3 align="center">I’m interested in technologies, programming, engineering...</h3>
-<h3 align="center">💞️ I'm always looking to improve my knowledge and programming skills, so that I can positively impact people's lives.</h3>
+- 💞️ I'm always looking to improve my knowledge and programming skills, so that I can positively impact people's lives.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizaogura" alt="luizaogura" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizaogura" alt="luizaogura" /></a> </p>
 
 - 🌱 I’m currently learning **computer science using Python 3.5**
 
