@@ -3,7 +3,7 @@
 
 
 - 💞️ I'm always looking to improve my knowledge and programming skills, so that I can positively impact people's lives**
-- 🌱 I’m currently learning **computer science using Python 3.5**
+- 🌱 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
