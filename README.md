@@ -16,7 +16,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizaogura&show_icons=true&locale=en&layout=compact" alt="luizaogura" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizaogura&show_icons=true&locale=en" alt="luizaogura" /></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizaogura" alt="luizaogura" /></a> </p>
 
 <h3 align="center">📫 How to reach me: luizapogura@gmail.com</h3>
 
