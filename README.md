@@ -2,7 +2,7 @@
 <h3 align="center">I’m interested in technologies, programming, engineering...</h3>
 
 
-- 💞️ I'm always looking to improve my knowledge and programming skills, so that I can positively impact people's lives**
+- 💞️ I'm always looking to improve my knowledge and programming skills, so that I can positively impact people's lives
 - 🌱 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
