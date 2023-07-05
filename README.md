@@ -5,7 +5,7 @@
 - 💞️ I'm always looking to improve my knowledge and programming skills, so that I can positively impact people's lives
 - 🌱 I’m currently learning **Java**
 
-- **My portfolio**(PT): https://luizaogura.github.io/
+- **My portfolio**(PT): https://luizaogura.github.io/ <i>(EM CONSTRUÇÃO 🚧)<i>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
